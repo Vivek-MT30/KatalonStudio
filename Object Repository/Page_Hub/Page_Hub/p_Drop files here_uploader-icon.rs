@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Drop files here_uploader-icon</name>
+   <tag></tag>
+   <elementGuidId>0df6f90b-89b2-434a-93af-b807ed829b24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ctl00_mainContent_ContentPlaceHolder1_documentUploader_UploaderContentWrapper']/span/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.uploader-icon</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>258cb815-308e-42aa-ae62-44d4b0ee059f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>uploader-icon</value>
+      <webElementGuid>6ce982fc-10ca-4478-a562-6e43db814fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ctl00_mainContent_ContentPlaceHolder1_documentUploader_UploaderContentWrapper&quot;)/span[1]/p[@class=&quot;uploader-icon&quot;]</value>
+      <webElementGuid>965cd5ef-48ab-4f4c-8c4b-7c7b9d6dd747</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Hub/Page_Hub/iframe_Add Content_rdWindow</value>
+      <webElementGuid>43a6a86e-caf3-4f00-b042-0d93861d8f5f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ctl00_mainContent_ContentPlaceHolder1_documentUploader_UploaderContentWrapper']/span/p</value>
+      <webElementGuid>393a98a4-31a6-49aa-bce1-5278536ac5bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drop files here'])[1]/following::p[1]</value>
+      <webElementGuid>e1ac020c-c9b9-45d1-be7c-ed74ee3c89d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[1]/following::p[1]</value>
+      <webElementGuid>87b7303d-df35-44a8-95c4-885f5a212385</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to upload OR drag and drop documents here'])[1]/preceding::p[1]</value>
+      <webElementGuid>6d650f43-a056-4d09-b5a4-b5c961dc791d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to upload documents'])[1]/preceding::p[1]</value>
+      <webElementGuid>0990f559-6bba-4b95-8278-ef2bc4b05ff1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>0c7ae635-52ed-4bf6-93bd-41b565d0d03d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

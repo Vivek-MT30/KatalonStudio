@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>SLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5906ffd-ec59-4e2a-a0cc-8da713240e31</testCaseGuid>
+   <variable>
+      <defaultValue>'https://login.test.striven.com/Security/Login.aspx?t=Nextappnew&amp;ReturnUrl='</defaultValue>
+      <description></description>
+      <id>c7780a79-81f1-4013-bf08-834ed5fae8c2</id>
+      <masked>false</masked>
+      <name>URL1</name>
+   </variable>
+   <variable>
+      <defaultValue>'nextapp@mail.com'</defaultValue>
+      <description></description>
+      <id>03d38ed7-1d9b-499d-8737-99d17070cbcb</id>
+      <masked>false</masked>
+      <name>username1</name>
+   </variable>
+   <variable>
+      <defaultValue>'dODec5gxO+ZPvSoqU+rf6g=='</defaultValue>
+      <description></description>
+      <id>9caea5bd-670c-41f2-bf14-d754f9ded981</id>
+      <masked>false</masked>
+      <name>password1</name>
+   </variable>
+</TestCaseEntity>

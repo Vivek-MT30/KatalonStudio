@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddHubPost</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>372b7c88-86c3-4f27-9ce6-9ab63c9da36e</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9da4cc4e-d98b-452c-83f5-6cd0c9c276d6</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'C:\\\\Users\\\\vpatil\\\\Downloads\\\\New folder\\\\Bill Import Sample (1).csv'</defaultValue>
+      <description></description>
+      <id>9da4cc4e-d98b-452c-83f5-6cd0c9c276d6</id>
+      <masked>false</masked>
+      <name>File</name>
+   </variable>
+</TestCaseEntity>

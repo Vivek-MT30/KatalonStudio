@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Drop files here_fa fa-cloud-upload fa-3x</name>
+   <tag></tag>
+   <elementGuidId>46a33ca1-4cc4-4eb3-9af0-0a98cda3f90e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='ctl00_ctl00_mainContent_ContentPlaceHolder1_documentUploader_UploaderContentWrapper']/span/p/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-cloud-upload.fa-3x</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>83e87fd1-6801-4198-95bb-9a7fbdaeeee8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-cloud-upload fa-3x</value>
+      <webElementGuid>46f06a72-bff9-440f-a6ea-1030e45582a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_ctl00_mainContent_ContentPlaceHolder1_documentUploader_UploaderContentWrapper&quot;)/span[1]/p[@class=&quot;uploader-icon&quot;]/i[@class=&quot;fa fa-cloud-upload fa-3x&quot;]</value>
+      <webElementGuid>9bfa2edc-fd88-4f63-8ceb-698eef6c1dd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Hub/iframe_Add Content_rdWindow_1</value>
+      <webElementGuid>e4471cca-5124-45e9-8566-230ededd7659</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='ctl00_ctl00_mainContent_ContentPlaceHolder1_documentUploader_UploaderContentWrapper']/span/p/i</value>
+      <webElementGuid>d91597a1-4d01-4443-aae8-c72ef4215f87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/i</value>
+      <webElementGuid>45b78fa8-3106-4e89-b20e-6310dd6a6527</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
