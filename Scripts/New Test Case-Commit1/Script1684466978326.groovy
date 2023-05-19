@@ -21,3 +21,5 @@ WebUI.acceptAlert()
 
 WebUI.acceptAlert()
 
+WebUI.acceptAlert()
+
